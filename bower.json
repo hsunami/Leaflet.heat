@@ -1,0 +1,16 @@
+{
+  "name": "Leaflet.heat",
+  "version": "0.1.2",
+  "homepage": "https://github.com/hsunami/Leaflet.heat",
+  "authors": [
+    "Vladimir Agafonkin"
+  ],
+  "main": "dist/leaflet-heat.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
